@@ -1,9 +1,9 @@
 {
-  "debug": true,
+  "debug": false,
   "domain": null,
   "lintScripts": false,
   "modelSource": null,
-  "preprocessorLocations": "assets",
+  "preprocessorLocations": "public",
   "preprocessorScriptOutput": "public/js",
   "preprocessorStyleOutput": "public/css",
   "projectDescription": "Bootstrap 2.1.1 for Creative Services - MIX",
