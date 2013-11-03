@@ -16,5 +16,6 @@
   "templateDefaultPage": "index",
   "templateDirectory": "templates",
   "type": "mixture",
+  "sitemap": true,
   "useCompass": false
 }
