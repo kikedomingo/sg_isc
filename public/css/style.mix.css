@@ -1,5 +1,25 @@
-/*!
- * STARTER CSS
- */
- 
- @import "mix/_basic_styles.css";
+/* BASIC */ 
+@import "mix/_basic_styles.css";
+
+
+
+/* MEDIA QUERIES */
+@media (min-width: 980px) and (max-width: 1200px) {
+@import "mix/_mediaqueries_min980_max1200.css";
+}
+
+@media (max-width: 979px) {
+@import "mix/_mediaqueries_max979.css";
+}
+
+@media (min-width: 768px) and (max-width: 979px) {
+@import "mix/_mediaqueries_min768_max979.css";
+}
+
+@media (max-width: 767px) {
+@import "mix/_mediaqueries_max767.css";
+}
+
+@media (max-width: 480px) {
+@import "mix/_mediaqueries_max480.css";
+}

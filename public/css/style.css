@@ -1,7 +1,37 @@
-/*!
- * STARTER CSS
- */
- 
- /*!
+/* BASIC */ 
+/*
  * _basic styles
  */
+
+
+
+/* MEDIA QUERIES */
+@media (min-width: 980px) and (max-width: 1200px) {
+/*
+ * _mediaqueries_min980_max1200
+ */
+}
+
+@media (max-width: 979px) {
+/*
+ * _mediaqueries_max979
+ */
+}
+
+@media (min-width: 768px) and (max-width: 979px) {
+/*
+ * _mediaqueries_min768_max979
+ */
+}
+
+@media (max-width: 767px) {
+/*
+ * _mediaqueries_max767
+ */
+}
+
+@media (max-width: 480px) {
+/*
+ * _mediaqueries_max480
+ */
+}
